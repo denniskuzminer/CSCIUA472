@@ -1,0 +1,131 @@
+'[
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "A"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "B"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "C"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "D"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "E"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "F"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 0,
+  '    "clusters": [
+  '      "G"
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 1,
+  '    "clusters": [
+  '      [
+  '        "A"
+  '      ],
+  '      [
+  '        "C"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 2,
+  '    "clusters": [
+  '      [
+  '        "D"
+  '      ],
+  '      [
+  '        "E"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 3,
+  '    "clusters": [
+  '      [
+  '        "B"
+  '      ],
+  '      [
+  '        "F"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 4,
+  '    "clusters": [
+  '      [
+  '        "G"
+  '      ],
+  '      [
+  '        "A",
+  '        "C"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 5,
+  '    "clusters": [
+  '      [
+  '        "B",
+  '        "F"
+  '      ],
+  '      [
+  '        "G",
+  '        "A",
+  '        "C"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 6,
+  '    "clusters": [
+  '      [
+  '        "D",
+  '        "E"
+  '      ],
+  '      [
+  '        "B",
+  '        "F",
+  '        "G",
+  '        "A",
+  '        "C"
+  '      ]
+  '    ]
+  '  },
+  '  {
+  '    "currStep": 7,
+  '    "clusters": [
+  '      "D",
+  '      "E",
+  '      "B",
+  '      "F",
+  '      "G",
+  '      "A",
+  '      "C"
+  '    ]
+  '  }
+  ']'

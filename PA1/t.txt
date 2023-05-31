@@ -1,0 +1,56 @@
+21 C
+F 3
+G 6
+H 7
+I 9
+J 2
+K 8
+
+F G
+G I
+H F
+I H
+J H
+K J
+
+18 V
+A 3
+B 5
+C 6
+D 10
+E 13
+
+A B
+A C
+B D
+C E
+D E
+
+20 V 4
+F 3
+G 6
+H 7
+I 9
+J 2
+K 8
+
+F G
+G I
+H F
+I H
+J H
+K J
+
+
+18 V
+A 3
+B 5
+C 6
+D 10
+E 13
+
+A B
+A C
+B D
+C E
+D E
